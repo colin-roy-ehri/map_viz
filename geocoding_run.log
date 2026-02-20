@@ -1,0 +1,167 @@
+2026-02-14 15:04:40,551 - INFO - Starting agency geocoding process...
+2026-02-14 15:04:54,485 - INFO - Found 70 unique agencies to geocode
+2026-02-14 15:04:54,485 - INFO - [1/70] Processing: Alabama Department of Corrections
+2026-02-14 15:04:55,543 - INFO -   ✓ Geocoded: 30.6972, -88.1892 (medium, original)
+2026-02-14 15:04:55,830 - INFO - [2/70] Processing: Arizona Department of Public Safety
+2026-02-14 15:04:58,851 - INFO -   ✓ Geocoded: 33.4484, -112.0741 (high, original)
+2026-02-14 15:04:59,013 - INFO - [3/70] Processing: Blount County Commission (AL)
+2026-02-14 15:04:59,014 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:04:59,138 - INFO - [4/70] Processing: CO - Colorado Bureau of Investigation
+2026-02-14 15:05:00,751 - INFO -   ✓ Geocoded: 39.0569, -108.4861 (high, original)
+2026-02-14 15:05:00,911 - INFO - [5/70] Processing: CO - Fort Lewis College PD
+2026-02-14 15:05:00,911 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:01,036 - INFO - [6/70] Processing: CO - Steamboat Springs PD
+2026-02-14 15:05:01,036 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:01,188 - INFO - [7/70] Processing: California Department of Corrections
+2026-02-14 15:05:02,647 - INFO -   ✓ Geocoded: 37.8755, -122.2391 (high, original)
+2026-02-14 15:05:02,799 - INFO - [8/70] Processing: California Highway Patrol
+2026-02-14 15:05:03,715 - INFO -   ✓ Geocoded: 37.8755, -122.2391 (high, original)
+2026-02-14 15:05:03,820 - INFO - [9/70] Processing: Chatham-Savannah Counter Narcotics Team
+2026-02-14 15:05:03,821 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:03,948 - INFO - [10/70] Processing: Cherokee County GA DA
+2026-02-14 15:05:03,948 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:04,075 - INFO - [11/70] Processing: City of Peoria PD AZ 
+2026-02-14 15:05:04,075 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:04,205 - INFO - [12/70] Processing: City of Sierra Vista AZ
+2026-02-14 15:05:04,205 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:04,332 - INFO - [13/70] Processing: Colorado State Patrol
+2026-02-14 15:05:04,781 - INFO -   ✓ Geocoded: 39.0569, -108.4861 (high, original)
+2026-02-14 15:05:04,910 - INFO - [14/70] Processing: Cumberland Metro IN PD
+2026-02-14 15:05:06,359 - INFO -   ⚠ Using state-level coordinates for Cumberland Metro, IN (imprecise fallback)
+2026-02-14 15:05:06,359 - INFO -   ⚠ Geocoded: 39.8494, -86.2583 (low, state_level)
+2026-02-14 15:05:06,480 - INFO - [15/70] Processing: Douglas County Open Spaces & Natural Resources CO
+2026-02-14 15:05:06,480 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:06,604 - INFO - [16/70] Processing: DuPage County IL SO
+2026-02-14 15:05:06,604 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:06,730 - INFO - [17/70] Processing: Elkhart PD IN
+2026-02-14 15:05:06,730 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:06,855 - INFO - [18/70] Processing: Flagstaff AZ PD [Inactive]
+2026-02-14 15:05:06,856 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:06,989 - INFO - [19/70] Processing: Florida State University Campus PD FL
+2026-02-14 15:05:08,257 - INFO -   ✓ Geocoded: 27.2500, -81.2500 (medium, original)
+2026-02-14 15:05:08,381 - INFO - [20/70] Processing: Grand Haven MI DPS
+2026-02-14 15:05:08,381 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:08,521 - INFO - [21/70] Processing: KS - Meade County SO
+2026-02-14 15:05:08,521 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:08,649 - INFO - [22/70] Processing: Kansas Highway Patrol
+2026-02-14 15:05:12,171 - INFO -   ✓ Geocoded: 38.9535, -95.2631 (high, original)
+2026-02-14 15:05:12,300 - INFO - [23/70] Processing: LaSalle Co. IL SO - New
+2026-02-14 15:05:12,300 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:12,422 - INFO - [24/70] Processing: Lincoln County SO NE
+2026-02-14 15:05:12,423 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:12,568 - INFO - [25/70] Processing: Louisiana State Police (LA)
+2026-02-14 15:05:14,064 - INFO -   ✓ Geocoded: 30.4062, -91.1854 (high, original)
+2026-02-14 15:05:14,193 - INFO - [26/70] Processing: Louisville CO PD [Inactive]
+2026-02-14 15:05:14,193 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:14,317 - INFO - [27/70] Processing: Marinette County SO (WI)
+2026-02-14 15:05:14,317 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:14,445 - INFO - [28/70] Processing: Marion Health PD (IN)
+2026-02-14 15:05:14,445 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:14,568 - INFO - [29/70] Processing: Mendocino County SO-CA
+2026-02-14 15:05:14,569 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:14,709 - INFO - [30/70] Processing: Miami-Dade FL SO
+2026-02-14 15:05:14,709 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:14,837 - INFO - [31/70] Processing: Mississippi Department of Public Safety
+2026-02-14 15:05:17,770 - INFO -   ✓ Geocoded: 34.3646, -89.5396 (high, original)
+2026-02-14 15:05:17,868 - INFO - [32/70] Processing: Missouri Department of Conservation
+2026-02-14 15:05:19,569 - INFO -   ✓ Geocoded: 38.6134, -90.2594 (high, original)
+2026-02-14 15:05:19,699 - INFO - [33/70] Processing: Missouri Information Analysis Center
+2026-02-14 15:05:20,637 - INFO -   ✓ Geocoded: 38.6134, -90.2594 (high, original)
+2026-02-14 15:05:20,778 - INFO - [34/70] Processing: Missouri State Highway Patrol
+2026-02-14 15:05:21,704 - INFO -   ✓ Geocoded: 38.6134, -90.2594 (high, original)
+2026-02-14 15:05:21,862 - INFO - [35/70] Processing: Moffat County SO CO
+2026-02-14 15:05:21,863 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:21,999 - INFO - [36/70] Processing: Mountain Village PD (CO)
+2026-02-14 15:05:21,999 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:22,140 - INFO - [37/70] Processing: NYS Crime Analysis Center Network
+2026-02-14 15:05:22,140 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:22,270 - INFO - [38/70] Processing: National Center for Missing & Exploited Children [NCMEC]
+2026-02-14 15:05:22,270 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:22,368 - INFO - [39/70] Processing: Nebraska State Patrol
+2026-02-14 15:05:23,499 - INFO -   ✓ Geocoded: 41.1025, -96.4390 (low, original)
+2026-02-14 15:05:23,624 - INFO - [40/70] Processing: Nevada Department of Motor Vehicles 
+2026-02-14 15:05:25,197 - INFO -   ✓ Geocoded: 36.1226, -115.1798 (high, original)
+2026-02-14 15:05:25,328 - INFO - [41/70] Processing: New Mexico State Police 
+2026-02-14 15:05:27,006 - INFO -   ✓ Geocoded: 35.2525, -106.2036 (low, original)
+2026-02-14 15:05:27,127 - INFO - [42/70] Processing: North Carolina State Bureau of Investigation (NCSBI)
+2026-02-14 15:05:28,909 - INFO -   ✓ Geocoded: 35.3899, -80.7102 (medium, original)
+2026-02-14 15:05:29,031 - INFO - [43/70] Processing: Northern Arizona University Campus AZ PD
+2026-02-14 15:05:30,909 - INFO -   ⚠ Using state-level coordinates for Northern Arizona University Campus, AZ (imprecise fallback)
+2026-02-14 15:05:30,909 - INFO -   ⚠ Geocoded: 33.7298, -111.4312 (low, state_level)
+2026-02-14 15:05:31,034 - INFO - [44/70] Processing: Northern Colorado Intelligence Unit CO
+2026-02-14 15:05:31,976 - INFO -   ✓ Geocoded: 39.0569, -108.4861 (high, original)
+2026-02-14 15:05:32,103 - INFO - [45/70] Processing: O'Fallon MO PD
+2026-02-14 15:05:32,103 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:32,228 - INFO - [46/70] Processing: OH - Butler County SO
+2026-02-14 15:05:32,228 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:32,362 - INFO - [47/70] Processing: OK - 477
+2026-02-14 15:05:32,362 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:32,484 - INFO - [48/70] Processing: Ohio State Highway Patrol
+2026-02-14 15:05:33,452 - INFO -   ✓ Geocoded: 39.3242, -82.1016 (high, original)
+2026-02-14 15:05:33,549 - INFO - [49/70] Processing: Riverside County CA District Attorney
+2026-02-14 15:05:33,550 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:33,650 - INFO - [50/70] Processing: Sikeston MO DPS
+2026-02-14 15:05:33,651 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:33,785 - INFO - [51/70] Processing: Somerset County NJ Prosecutors Office
+2026-02-14 15:05:33,785 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:33,886 - INFO - [52/70] Processing: South Carolina Law Enforcement Division - SLED
+2026-02-14 15:05:35,456 - INFO -   ✓ Geocoded: 35.0601, -80.9103 (medium, original)
+2026-02-14 15:05:35,581 - INFO - [53/70] Processing: South Dakota Division of Criminal Investigation SD 
+2026-02-14 15:05:37,148 - INFO -   ✓ Geocoded: 44.3209, -96.7512 (medium, original)
+2026-02-14 15:05:37,272 - INFO - [54/70] Processing: Southern Regl PA PD
+2026-02-14 15:05:38,655 - INFO -   ⚠ Using state-level coordinates for Southern Regl, PA (imprecise fallback)
+2026-02-14 15:05:38,655 - INFO -   ⚠ Geocoded: 40.5908, -77.2098 (low, state_level)
+2026-02-14 15:05:38,777 - INFO - [55/70] Processing: Sparks Police Department - NV 
+2026-02-14 15:05:38,777 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:38,903 - INFO - [56/70] Processing: St. Charles City MO PD
+2026-02-14 15:05:38,904 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:39,031 - INFO - [57/70] Processing: St. Charles County MO PD
+2026-02-14 15:05:39,031 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:39,155 - INFO - [58/70] Processing: St. Francois County MO SO
+2026-02-14 15:05:39,156 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:39,259 - INFO - [59/70] Processing: St. Martin Parish LA SO
+2026-02-14 15:05:39,259 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:39,388 - INFO - [60/70] Processing: State Prosecutor's Office NM PD
+2026-02-14 15:05:39,389 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:39,511 - INFO - [61/70] Processing: Texas Department of Public Safety
+2026-02-14 15:05:40,555 - INFO -   ✓ Geocoded: 30.6109, -96.3521 (high, original)
+2026-02-14 15:05:40,652 - INFO - [62/70] Processing: Tompkins County NY Sheriff's Office
+2026-02-14 15:05:40,652 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:40,776 - INFO - [63/70] Processing: Tooele City PD UT
+2026-02-14 15:05:40,776 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:40,874 - INFO - [64/70] Processing: UT - Cedar City PD
+2026-02-14 15:05:40,874 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:41,004 - INFO - [65/70] Processing: University of Central Missouri PD
+2026-02-14 15:05:41,623 - INFO -   ✓ Geocoded: 38.6134, -90.2594 (high, original)
+2026-02-14 15:05:41,720 - INFO - [66/70] Processing: University of Iowa PD (IA)
+2026-02-14 15:05:43,092 - INFO -   ✓ Geocoded: 41.6840, -92.0612 (high, original)
+2026-02-14 15:05:43,191 - INFO - [67/70] Processing: Village of Clearview WV PD
+2026-02-14 15:05:44,789 - INFO -   ⚠ Using state-level coordinates for Village of Clearview, WV (imprecise fallback)
+2026-02-14 15:05:44,789 - INFO -   ⚠ Geocoded: 38.4912, -80.9545 (low, state_level)
+2026-02-14 15:05:44,939 - INFO - [68/70] Processing: Wabaunsee County SO (KS)
+2026-02-14 15:05:44,939 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:45,066 - INFO - [69/70] Processing: [Federal] Lake Mead NV NRA
+2026-02-14 15:05:45,066 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:45,218 - INFO - [70/70] Processing: [Federal] US Postal Inspection Service
+2026-02-14 15:05:45,218 - WARNING -   ✗ Failed to parse org_name
+2026-02-14 15:05:45,345 - INFO - 
+============================================================
+2026-02-14 15:05:45,346 - INFO - GEOCODING SUMMARY
+2026-02-14 15:05:45,346 - INFO - ============================================================
+2026-02-14 15:05:45,346 - INFO - Total agencies processed: 70
+2026-02-14 15:05:45,346 - INFO - Successfully geocoded:   28
+2026-02-14 15:05:45,346 - INFO - Geocoding failed:        0
+2026-02-14 15:05:45,346 - INFO - Parsing skipped:         42
+2026-02-14 15:05:46,308 - INFO - 
+Total agencies in BigQuery: 568
+2026-02-14 15:05:46,308 - INFO - With coordinates:          460 (81.0%)
+2026-02-14 15:05:46,308 - INFO -   - High confidence:       284
+2026-02-14 15:05:46,308 - INFO -   - Medium confidence:     163
+2026-02-14 15:05:46,308 - INFO -   - Low confidence:        13
+2026-02-14 15:05:46,308 - INFO - 
+Geocoding method breakdown:
+2026-02-14 15:05:46,308 - INFO -   - Original query:        145
+2026-02-14 15:05:46,308 - INFO -   - Suffix stripped:       0
+2026-02-14 15:05:46,308 - INFO -   - State-level fallback:  8
+2026-02-14 15:05:46,308 - INFO - ============================================================
+2026-02-14 15:05:46,308 - INFO - ✓ Geocoding complete!

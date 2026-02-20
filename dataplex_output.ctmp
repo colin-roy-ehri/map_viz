@@ -1,0 +1,588 @@
+Column name
+Type
+Null percentage
+Unique percentage
+Statistics
+Top 10 values
+case_num	STRING	92.43%	0%	
+Average length
+8.00
+Minimum length
+8
+Maximum length
+8
+0%
+5%
+10%
+RED…
+7.5701%
+Value	Count
+REDACTED	0.076
+Value	Count
+REDACTED	0.076
+end_timestamp	TIMESTAMP	0%	65.74%	
+4/15/25,
+10:00…
+4/8/25,
+2:30 PM
+4/14/25,
+9:30 AM
+4/29/25,
+5:00 PM
+4/22/25,
+4:30 PM
+0.0757%
+0.0757%
+0.0348%
+0.0348%
+0.0346%
+0.0346%
+0.0312%
+0.0312%
+0.0299%
+0.0299%
+0.0251%
+0.0251%
+0.0238%
+0.0238%
+0.0227%
+0.0227%
+0.0227%
+0.0227%
+0.0217%
+0.0217%
+Value	Count
+4/15/25, 10:00 AM	0.001
+4/1/25, 5:00 PM	0
+4/8/25, 2:30 PM	0
+4/17/25, 11:30 AM	0
+4/14/25, 9:30 AM	0
+4/4/25, 1:00 PM	0
+4/29/25, 5:00 PM	0
+4/27/25, 7:00 PM	0
+4/22/25, 4:30 PM	0
+4/21/25, 9:30 PM	0
+Value	Count
+4/15/25, 10:00 AM	0.001
+4/1/25, 5:00 PM	0
+4/8/25, 2:30 PM	0
+4/17/25, 11:30 AM	0
+4/14/25, 9:30 AM	0
+4/4/25, 1:00 PM	0
+4/29/25, 5:00 PM	0
+4/27/25, 7:00 PM	0
+4/22/25, 4:30 PM	0
+4/21/25, 9:30 PM	0
+filters	STRING	55.15%	0%	
+Average length
+8.00
+Minimum length
+8
+Maximum length
+8
+0%
+50%
+100%
+RED…
+44.8495%
+Value	Count
+REDACTED	0.448
+Value	Count
+REDACTED	0.448
+id	STRING	0%	100%	
+Average length
+36.00
+Minimum length
+36
+Maximum length
+36
+ffffad…
+fffeb8…
+fffd13…
+fffccb…
+fffb13…
+fff9aa…
+fff97a…
+fff8db…
+fff863…
+fff6aa…
+0.000163%
+0.000163%
+0.000163%
+0.000163%
+0.000163%
+0.000163%
+0.000163%
+0.000163%
+0.000163%
+0.000163%
+0.000163%
+0.000163%
+0.000163%
+0.000163%
+0.000163%
+0.000163%
+0.000163%
+0.000163%
+0.000163%
+0.000163%
+Value	Count
+ffffadb5-1b5c-4698-8734-cfaf952abd01	0
+fffeb8d2-4434-47c4-82c1-908a659233f5	0
+fffd1336-242d-4f15-be04-a4345f75cf14	0
+fffccbe9-2e6b-4110-9e94-aeacd6d29575	0
+fffb1395-582a-4b14-91e5-3a3f72ecc60f	0
+fff9aaca-204b-4f7b-9d15-abf0e1372274	0
+fff97a47-654e-4b2b-8922-79455ce13e0e	0
+fff8dbc8-ce88-4943-ab64-fde2ceca95a0	0
+fff863a2-04dd-4448-92ac-bdb487d469af	0
+fff6aafe-3071-41b0-940c-e1d906f15475	0
+Value	Count
+ffffadb5-1b5c-4698-8734-cfaf952abd01	0
+fffeb8d2-4434-47c4-82c1-908a659233f5	0
+fffd1336-242d-4f15-be04-a4345f75cf14	0
+fffccbe9-2e6b-4110-9e94-aeacd6d29575	0
+fffb1395-582a-4b14-91e5-3a3f72ecc60f	0
+fff9aaca-204b-4f7b-9d15-abf0e1372274	0
+fff97a47-654e-4b2b-8922-79455ce13e0e	0
+fff8dbc8-ce88-4943-ab64-fde2ceca95a0	0
+fff863a2-04dd-4448-92ac-bdb487d469af	0
+fff6aafe-3071-41b0-940c-e1d906f15475	0
+license_plate	STRING	5.88%	0%	
+Average length
+8.00
+Minimum length
+8
+Maximum length
+8
+0%
+50%
+100%
+RED…
+94.1185%
+Value	Count
+REDACTED	0.941
+Value	Count
+REDACTED	0.941
+name	STRING	0%	0%	
+Average length
+8.00
+Minimum length
+8
+Maximum length
+8
+0%
+50%
+100%
+RED…
+100%
+Value	Count
+REDACTED	1
+Value	Count
+REDACTED	1
+org_name	STRING	0%	0.57%	
+Average length
+17.85
+Minimum length
+6
+Maximum length
+80
+0%
+5%
+10%
+Houst…
+Harris
+County
+TX SO
+Cleve…
+Misso…
+Denver
+CO PD
+[Fede…
+8.9084%
+8.9084%
+7.2436%
+7.2436%
+2.3043%
+2.3043%
+1.6442%
+1.6442%
+1.4706%
+1.4706%
+1.2032%
+1.2032%
+1.1362%
+1.1362%
+0.8247%
+0.8247%
+0.6704%
+0.6704%
+0.6133%
+0.6133%
+Value	Count
+Houston TX PD	0.089
+Dallas TX PD	0.072
+Harris County TX SO	0.023
+Palm Beach County FL SO	0.016
+Cleveland OH Division of Police	0.015
+Missouri State Highway Patrol	0.012
+Irvine CA PD	0.011
+Denver CO PD	0.008
+Carmel IN PD	0.007
+[Federal] US Postal Inspection Service	0.006
+Value	Count
+Houston TX PD	0.089
+Dallas TX PD	0.072
+Harris County TX SO	0.023
+Palm Beach County FL SO	0.016
+Cleveland OH Division of Police	0.015
+Missouri State Highway Patrol	0.012
+Irvine CA PD	0.011
+Denver CO PD	0.008
+Carmel IN PD	0.007
+[Federal] US Postal Inspection Service	0.006
+reason	STRING	0.07%	5.08%	
+Average length
+8.30
+Minimum length
+1
+Maximum length
+466
+0%
+5%
+10%
+inv
+invest…
+Inves…
+stolen
+warrant
+Inv
+invest
+INV
+suspect
+Stolen
+5.0643%
+5.0643%
+3.1971%
+3.1971%
+2.7052%
+2.7052%
+2.6706%
+2.6706%
+1.763%
+1.763%
+1.7565%
+1.7565%
+1.5633%
+1.5633%
+1.189%
+1.189%
+1.1779%
+1.1779%
+1.0942%
+1.0942%
+Value	Count
+inv	0.051
+investigation	0.032
+Investigation	0.027
+stolen	0.027
+warrant	0.018
+Inv	0.018
+invest	0.016
+INV	0.012
+suspect	0.012
+Stolen	0.011
+Value	Count
+inv	0.051
+investigation	0.032
+Investigation	0.027
+stolen	0.027
+warrant	0.018
+Inv	0.018
+invest	0.016
+INV	0.012
+suspect	0.012
+Stolen	0.011
+search_time	STRING	0%	84.88%	
+Average length
+27.00
+Minimum length
+27
+Maximum length
+27
+04/23…
+04/23…
+04/14…
+04/22…
+04/22…
+04/17…
+04/15…
+04/15…
+04/08…
+04/02…
+0.001795%
+0.001795%
+0.001142%
+0.001142%
+0.000979%
+0.000979%
+0.000816%
+0.000816%
+0.000816%
+0.000816%
+0.000816%
+0.000816%
+0.000816%
+0.000816%
+0.000816%
+0.000816%
+0.000816%
+0.000816%
+0.000816%
+0.000816%
+Value	Count
+04/23/2025, 09:35:22 PM UTC	0
+04/23/2025, 09:40:52 PM UTC	0
+04/14/2025, 06:11:34 PM UTC	0
+04/22/2025, 08:38:20 PM UTC	0
+04/22/2025, 03:09:31 PM UTC	0
+04/17/2025, 06:11:50 PM UTC	0
+04/15/2025, 03:46:03 AM UTC	0
+04/15/2025, 03:46:02 AM UTC	0
+04/08/2025, 06:49:54 PM UTC	0
+04/02/2025, 09:38:56 PM UTC	0
+Value	Count
+04/23/2025, 09:35:22 PM UTC	0
+04/23/2025, 09:40:52 PM UTC	0
+04/14/2025, 06:11:34 PM UTC	0
+04/22/2025, 08:38:20 PM UTC	0
+04/22/2025, 03:09:31 PM UTC	0
+04/17/2025, 06:11:50 PM UTC	0
+04/15/2025, 03:46:03 AM UTC	0
+04/15/2025, 03:46:02 AM UTC	0
+04/08/2025, 06:49:54 PM UTC	0
+04/02/2025, 09:38:56 PM UTC	0
+search_type	STRING	0%	0%	
+Average length
+6.00
+Minimum length
+6
+Maximum length
+8
+0%
+50%
+100%
+lookup
+search
+convoy
+freefo…
+52.398%
+47.39%
+0.2113%
+0.2113%
+0.000653%
+0.000653%
+Value	Count
+lookup	0.524
+search	0.474
+convoy	0.002
+freeform	0
+Value	Count
+lookup	0.524
+search	0.474
+convoy	0.002
+freeform	0
+start_timestamp	TIMESTAMP	0%	70.43%	
+3/31/25,
+11:00…
+4/15/24,
+10:00…
+4/1/25,
+8:30 AM
+3/14/25,
+10:00…
+4/1/25,
+12:30…
+0.1809%
+0.1809%
+0.1291%
+0.1291%
+0.071%
+0.071%
+0.048%
+0.048%
+0.0429%
+0.0429%
+0.0427%
+0.0427%
+0.0424%
+0.0424%
+0.0405%
+0.0405%
+0.0403%
+0.0403%
+0.0393%
+0.0393%
+Value	Count
+3/31/25, 11:00 PM	0.002
+3/31/25, 10:00 PM	0.001
+4/15/24, 10:00 AM	0.001
+2/28/25, 11:00 PM	0
+4/1/25, 8:30 AM	0
+3/8/25, 10:00 PM	0
+3/14/25, 10:00 PM	0
+3/3/25, 10:00 PM	0
+4/1/25, 12:30 PM	0
+3/9/25, 10:00 PM	0
+Value	Count
+3/31/25, 11:00 PM	0.002
+3/31/25, 10:00 PM	0.001
+4/15/24, 10:00 AM	0.001
+2/28/25, 11:00 PM	0
+4/1/25, 8:30 AM	0
+3/8/25, 10:00 PM	0
+3/14/25, 10:00 PM	0
+3/3/25, 10:00 PM	0
+4/1/25, 12:30 PM	0
+3/9/25, 10:00 PM	0
+total_devices_searched	INTEGER	0%	4.31%	
+Average
+59603.85
+Standard deviation
+27767.55
+ 
+Minimum
+1
+Lower Quartile
+32125
+Median Quartile
+78007
+Upper Quartile
+80396
+Maximum
+86684
+0%
+1%
+17446
+17348
+17558
+17438
+56308
+17452
+56260
+17460
+56259
+17557
+0.5054%
+0.5054%
+0.3981%
+0.3981%
+0.3118%
+0.3118%
+0.2966%
+0.2966%
+0.2292%
+0.2292%
+0.2189%
+0.2189%
+0.1979%
+0.1979%
+0.1844%
+0.1844%
+0.1739%
+0.1739%
+0.1728%
+0.1728%
+Value	Count
+17446	0.005
+17348	0.004
+17558	0.003
+17438	0.003
+56308	0.002
+17452	0.002
+56260	0.002
+17460	0.002
+56259	0.002
+17557	0.002
+Value	Count
+17446	0.005
+17348	0.004
+17558	0.003
+17438	0.003
+56308	0.002
+17452	0.002
+56260	0.002
+17460	0.002
+56259	0.002
+17557	0.002
+total_networks_searched	INTEGER	0%	0.59%	
+Average
+4585.36
+Standard deviation
+2323.34
+ 
+Minimum
+1
+Lower Quartile
+1992
+Median Quartile
+6184
+Upper Quartile
+6327
+Maximum
+7132
+0%
+2%
+4%
+1346
+4157
+1204
+1355
+1348
+4155
+3813
+1436
+1448
+4156
+2.0108%
+2.0108%
+1.3775%
+1.3775%
+1.3502%
+1.3502%
+1.0951%
+1.0951%
+1.0145%
+1.0145%
+0.8929%
+0.8929%
+0.849%
+0.849%
+0.7867%
+0.7867%
+0.5085%
+0.5085%
+0.4986%
+0.4986%
+Value	Count
+1346	0.02
+4157	0.014
+1204	0.014
+1355	0.011
+1348	0.01
+4155	0.009
+3813	0.008
+1436	0.008
+1448	0.005
+4156	0.005
+Value	Count
+1346	0.02
+4157	0.014
+1204	0.014
+1355	0.011
+1348	0.01
+4155	0.009
+3813	0.008
+1436	0.008
+1448	0.005
+4156	0.005
