@@ -12,7 +12,6 @@ python/venv_*
 # Misc
 .DS_Store
 *.pem
-*.xlsx
 *.ctmp
 
 # Debug
