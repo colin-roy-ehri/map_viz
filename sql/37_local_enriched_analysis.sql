@@ -231,6 +231,7 @@ SELECT
   'October 2025' AS dataset,
   org_name,
   reason_bucket,
+  reason_category,
   COUNT(*) as search_count,
   ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (PARTITION BY org_name), 1) as pct_of_org,
   COUNTIF(is_participating_agency) as participating_count
